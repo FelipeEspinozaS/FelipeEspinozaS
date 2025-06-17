@@ -7,5 +7,5 @@
 
 # 📫 Contact Me
 - Email: [felipe.ig.espinoza@gmail.com](mailto:felipe.ig.espinoza@gmail.com)  
-- LinkedIn: [linkedin.com/in/felipe-espinoza](linkedin.com/in/felipe-espinoza-733a5236b)
+- LinkedIn: [linkedin.com/in/felipe-espinoza](https://www.linkedin.com/in/felipe-espinoza-733a5236b)
 - Telegram: [t.me/FelipeES08](https://t.me/FelipeES08)
