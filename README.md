@@ -9,6 +9,3 @@
 - Email: [felipe.ig.espinoza@gmail.com](mailto:felipe.ig.espinoza@gmail.com)  
 - LinkedIn: [linkedin.com/in/felipe-espinoza](linkedin.com/in/felipe-espinoza-733a5236b)
 - Telegram: [t.me/FelipeES08](https://t.me/FelipeES08)
-
----
-[![](https://visitcount.itsvg.in/api?id=FelipeEspinozaS&icon=0&color=0)](https://visitcount.itsvg.in)
