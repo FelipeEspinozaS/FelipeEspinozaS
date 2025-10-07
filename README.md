@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 I'm a 23y/o Software Engineering student at Pontificia Universidad Católica de Chile  <br>🧪 Currently learning Vue, FastAPI and TensorFlow  <br>👾 I'm also a big Nintendo fan and Pokémon nerd, and I can probably beat you in Mario Kart.<br>🇪🇸 (Native) - 🇬🇧 (B2)
+🧑🏻‍💻 I'm a 23y/o Software Engineering student at Pontificia Universidad Católica de Chile  <br>🧪 Currently learning Next.js, FastAPI and OpenAI Gym  <br>👾 I'm also a big Nintendo fan and Pokémon nerd, and I can probably beat you in Mario Kart.<br>🇪🇸 (Native) - 🇬🇧 (B2)
 
 
 # 💻 Tech Stack:
